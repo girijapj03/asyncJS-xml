@@ -1,0 +1,29 @@
+{"mobiles":[
+{
+"brand":"MI",
+"price":10000,
+"color":"blue",
+"ram":"160gb",
+"imagesrc ":"https://www.google.com/search?q=mi+phone+image&rlz=1C1CHBD_enIN891IN891&sxsrf=AOaemvJ899kPkm7ZWiqjEH48VFwWnBK4kw:1630072799367&tbm=isch&source=iu&ictx=1&fir=gyL-Z37C8C7yqM%252ChogJ-iezww9qzM%252C_&vet=1&usg=AI4_-kTY7IvgKydZCJ1NSoNdEJWosS7NGQ&sa=X&ved=2ahUKEwju5KexrtHyAhWF63MBHbP3A0gQ9QF6BAgREAE#imgrc=kaASDrSG-PTO3M"
+}
+{
+"brand":"XIOMI",
+"price":35000,
+"color":"RED",
+"ram":"160gb",
+"imagesrc ":"https://www.google.com/search?q=mi+phone+image&rlz=1C1CHBD_enIN891IN891&sxsrf=AOaemvJ899kPkm7ZWiqjEH48VFwWnBK4kw:1630072799367&tbm=isch&source=iu&ictx=1&fir=gyL-Z37C8C7yqM%252ChogJ-iezww9qzM%252C_&vet=1&usg=AI4_-kTY7IvgKydZCJ1NSoNdEJWosS7NGQ&sa=X&ved=2ahUKEwju5KexrtHyAhWF63MBHbP3A0gQ9QF6BAgREAE#imgrc=-mGWGGl-hjWCMM"
+},
+{
+"brand":"OPPO",
+"price":30000,
+"color":"GOLD",
+"ram":"130gb",
+"imagesrc":"https://www.google.com/search?q=mi+phone+image&rlz=1C1CHBD_enIN891IN891&sxsrf=AOaemvJ899kPkm7ZWiqjEH48VFwWnBK4kw:1630072799367&tbm=isch&source=iu&ictx=1&fir=gyL-Z37C8C7yqM%252ChogJ-iezww9qzM%252C_&vet=1&usg=AI4_-kTY7IvgKydZCJ1NSoNdEJWosS7NGQ&sa=X&ved=2ahUKEwju5KexrtHyAhWF63MBHbP3A0gQ9QF6BAgREAE#imgrc=QUUcNNgfVHzQEM"
+},
+{
+"brand":"VIVO",
+"price":25000,
+"color":"green",
+"ram":"120gb",
+"imagesrc":"https://www.google.com/search?q=mi+phone+image&rlz=1C1CHBD_enIN891IN891&sxsrf=AOaemvJ899kPkm7ZWiqjEH48VFwWnBK4kw:1630072799367&tbm=isch&source=iu&ictx=1&fir=gyL-Z37C8C7yqM%252ChogJ-iezww9qzM%252C_&vet=1&usg=AI4_-kTY7IvgKydZCJ1NSoNdEJWosS7NGQ&sa=X&ved=2ahUKEwju5KexrtHyAhWF63MBHbP3A0gQ9QF6BAgREAE#imgrc=QUUcNNgfVHzQEM"
+}
